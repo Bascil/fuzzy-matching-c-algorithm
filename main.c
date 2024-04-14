@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
-#include <math.h> // Include math.h for fmin function
 
 #define MAX_NAME_LENGTH 100
 #define MAX_NAMES 1000
